@@ -18,19 +18,19 @@ A modern React-based expense tracking application with budgeting, charts, and hi
 ## Screenshots
 
 ### Splash Screen
-![Splash](screenshots/Splash.png)
+![Splash](ScreenShots/Splash.png)
 
 ### Login Page
-![Login](screenshots/Login.png)
+![Login](ScreenShots/Login.png)
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](ScreenShots/Dashboard.png)
 
 ### Charts
-![Charts](screenshots/Charts.png)
+![Charts](ScreenShots/Charts.png)
 
 ### History
-![History](screenshots/History.png)
+![History](ScreenShots/History.png)
 
 ---
 
