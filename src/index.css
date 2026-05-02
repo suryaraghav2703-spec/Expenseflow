@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg,#0a0a0a,#1a0033);
+  color: white;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background: rgba(255,255,255,0.05);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(90deg,#6a00ff,#a855f7);
+  color: white;
+  cursor: pointer;
+}
+
+body {
+  font-size: 18px;
+}
+
+h1 { font-size: 40px; }
+h2 { font-size: 28px; }
+h3 { font-size: 22px; }
+
+input {
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+}
+
+.card {
+  margin-bottom: 25px;
+  padding: 25px;
+}
+
+button {
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 12px 18px;
+}
+
+input, select {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 12px;
+  width: 100%;
+}
